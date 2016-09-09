@@ -1,0 +1,9 @@
+
+#include ./AINI.show
+
+#show = fubar
+#show = bufar
+seq = bar
+shot = foo
+
+ai_shot_dir = /home/scott/${show}/prod/${seq}/${shot}

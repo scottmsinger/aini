@@ -1,0 +1,7 @@
+show = fubar
+
+ai_shot_dir = /home/scott/${show}/prod/${seq}/${shot}
+
+#houd_v_maj = 14
+#houd_v_min = 5
+#houd_v_rel = 480
